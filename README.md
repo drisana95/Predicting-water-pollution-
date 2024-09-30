@@ -28,3 +28,5 @@ To get started, ensure you have Python installed. You can then install the requi
 
 ```bash
 pip install tensorflow numpy
+
+## Usage
